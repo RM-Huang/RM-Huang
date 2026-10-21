@@ -2,7 +2,6 @@
 
 <img align="right" width="40%" src="https://github.com/RM-Huang/ImageURL/blob/main/hello-world.gif">
 
-- 🔭 I’m currently studying for a master's degree at [UESTC](https://www.uestc.edu.cn/)
 - 💬 Ask me about anything [here](https://github.com/RM-Huang/RM-Huang/issues)
 - 📫 Reach me: hrmramond@gmail.com
 
